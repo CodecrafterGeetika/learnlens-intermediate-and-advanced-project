@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pymupdf
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+langgraph
